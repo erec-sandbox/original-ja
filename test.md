@@ -1,5 +1,5 @@
-This is a test.
+これはテストです。
 
-Now, this is also a test.
+今、これもテストです。
 
-Oh, this is a test.
+ああ、これはテストです。
